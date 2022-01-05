@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    
+}
+
+
+div{
+    width: 500px;
+    height:100px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15%;
+}
+a{
+    text-decoration: none;
+    color: gray;
+}
+.info{
+    
+    bottom:10px;
+}
+button{
+    background: transparent;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
